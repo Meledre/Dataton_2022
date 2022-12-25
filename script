@@ -1,1 +1,0 @@
-git clone --branch v1.4.0 https://github.com/openvinotoolkit/cvat.git cvat && cd cvat
