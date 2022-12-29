@@ -31,6 +31,11 @@
 2. Проведена сегментация исследований в датасете по целевому признаку
 3. Датасет подтвердил свою пригодность для обучения
 
+# Результаты обучения задаче классификации:
+![Alt-текст](https://github.com/Meledre/IMG/blob/3a6b115632b4b25480604f0e808a459a54671695/2022-12-29_15-05-21.png)
+![Alt-текст](https://github.com/Meledre/IMG/blob/3a6b115632b4b25480604f0e808a459a54671695/2022-12-29_15-05-45.png)
+![Alt-текст](https://github.com/Meledre/IMG/blob/3a6b115632b4b25480604f0e808a459a54671695/2022-12-29_15-06-01.png)
+
 # Итоговый проект:
 https://colab.research.google.com/drive/1bLIT1lX6ycVDHwPvhTraHj8DqG8V0u09?usp=sharing
 
